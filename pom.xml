@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>camilocespedes-udea</sonar.projectKey>
+		<sonar.projectKey>camilocespedes-udea_lab2v</sonar.projectKey>
 		<sonar.organization>camilocespedes-udea</sonar.organization>
 
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
